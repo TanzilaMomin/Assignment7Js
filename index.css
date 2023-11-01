@@ -1,0 +1,21 @@
+h1{
+    color: brown;
+}
+body{
+    background-color: rgb(230, 225, 220);
+}
+button{
+    background-color: wheat;
+    border: 6px inset;
+    padding: 10px;
+    border-color: brown;
+    color: brown;
+    display: flex;
+    margin: 10px;
+    font-size: x-large;
+}
+button:hover{
+    background-color: red;
+    color: white;
+    border: 6px inset wheat;
+}
